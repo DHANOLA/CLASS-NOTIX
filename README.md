@@ -56,3 +56,23 @@
     
   </ol>
 </details>
+
+
+
+
+<!-- LICENSE -->
+## License
+
+Distributed under the MIT License. See <a href="LICENSE" style="color:yellow">`LICENSE`</a> for more information.
+
+
+
+
+
+<!-- CONTACT -->
+## Contact
+
+Your Name - [@_DHANOLA](https://twitter.com/_DHANOLA) - email
+
+Project Link: [https://github.com/DHANOLA/CLASS-NOTIX](https://github.com/DHANOLA/CLASS-NOTIX)
+
