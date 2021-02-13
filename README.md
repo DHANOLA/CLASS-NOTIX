@@ -61,18 +61,21 @@
 
 
 <!-- LICENSE -->
-## License
+## LICENSE
 
-Distributed under the MIT License. See <a href="LICENSE" style="color:yellow">`LICENSE`</a> for more information.
+DISTRIBUTED UNDER THE MIT LICENSE. SEE <a href="LICENSE" style="color:yellow">`LICENSE`</a> FOR MORE INFORMATION.
 
 
 
 
 
 <!-- CONTACT -->
-## Contact
+## CONTACT
 
-Your Name - [@_DHANOLA](https://twitter.com/_DHANOLA) - email
+RAHUL DHANOLA - [@_DHANOLA](https://twitter.com/_DHANOLA) 
+
+e-m@il - rahuldhanola31@gmail.com
+
 
 Project Link: [https://github.com/DHANOLA/CLASS-NOTIX](https://github.com/DHANOLA/CLASS-NOTIX)
 
