@@ -21,7 +21,7 @@
   <summary><h2 style="display: inline-block">MY COURSES AS FOLLOWS</h2></summary>
   <ol>
     <li>
-      <a href="CLASS-NOTIX/SEMESTER 1" style="color:yellow">SEMESTER 1</a>
+      <a href="https://github.com/DHANOLA/CLASS-NOTIX/tree/root/SEMESTER%201" style="color:yellow">SEMESTER 1</a>
       <ul>
         <li><a href="CLASS-NOTIX/SEMESTER 1/PYTHON PROGRAMMING LAB" style="color: ">PYTHON PROGRAMMING LAB</a></li>
         <li><a href="CLASS-NOTIX/SEMESTER 1/PROGRAMMING AND DATA STRUCTURES LAB" style="color: ">PROGRAMMING AND DATA STRUCTURES LAB</a></li>
