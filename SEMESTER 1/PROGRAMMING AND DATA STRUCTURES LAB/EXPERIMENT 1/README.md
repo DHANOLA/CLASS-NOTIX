@@ -2,7 +2,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/DHANOLA/CLASS-NOTIX/tree/root/SEMESTER%201/PROGRAMMING%20AND%20DATA%20STRUCTURES%20LAB">
+  <a href="https://github.com/DHANOLA/CLASS-NOTIX/edit/root/SEMESTER%201/PROGRAMMING%20AND%20DATA%20STRUCTURES%20LAB/EXPERIMENT%201">
     <img src="https://media.giphy.com/media/Jsho2AKTd78Ls5f7wy/giphy.gif" >
   </a>
 
