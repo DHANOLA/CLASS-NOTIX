@@ -61,7 +61,7 @@
 
 
 <!-- LICENSE -->
-## LICENSE
+## LICENSE 📝
 
 DISTRIBUTED UNDER THE MIT LICENSE. SEE <a href="LICENSE" style="color:yellow">`LICENSE`</a> FOR MORE INFORMATION.
 
@@ -77,5 +77,5 @@ RAHUL DHANOLA - [@_DHANOLA](https://twitter.com/_DHANOLA)
 e-m@il - rahuldhanola31@gmail.com
 
 
-Project Link: [https://github.com/DHANOLA/CLASS-NOTIX](https://github.com/DHANOLA/CLASS-NOTIX)
+WAY TO MY N⭐️TES : [https://github.com/DHANOLA/CLASS-NOTIX](https://github.com/DHANOLA/CLASS-NOTIX)
 
