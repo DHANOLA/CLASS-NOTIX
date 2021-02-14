@@ -18,7 +18,7 @@
 
 <!-- TABLE OF CONTENTS -->
 <details open="open">
-  <summary><h2 style="display: inline-block">MY COURSES AS FOLLOWS</h2></summary>
+  <summary><h2 style="display: inline-block">MY SEMESTER COURSES AS FOLLOWS</h2></summary>
   <ol>
     <li>
       <a href="https://github.com/DHANOLA/CLASS-NOTIX/tree/root/SEMESTER%201" style="color:yellow">SEMESTER 1</a>
