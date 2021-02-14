@@ -2,7 +2,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://https://github.com/DHANOLA/CLASS-NOTIX">
+  <a href="https://github.com/DHANOLA/CLASS-NOTIX">
     <img src="https://media.giphy.com/media/nGtOFccLzujug/giphy.gif" >
   </a>
 
