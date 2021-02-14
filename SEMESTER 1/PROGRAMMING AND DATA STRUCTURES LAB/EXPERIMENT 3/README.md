@@ -9,7 +9,7 @@
   
 
   <p align="center">
-  <b>SIMPLE PROGRAMS IN C LANGUAGE WITH CONTROL STRUCTURES .<img src="https://media.giphy.com/media/wH4rY2nPnEnp6/giphy.gif" width="40" height="40" /></b>
+  <b>SIMPLE PROGRAMS IN C LANGUAGE WITH CONTROL STRUCTURES <img src="https://media.giphy.com/media/wH4rY2nPnEnp6/giphy.gif" width="40" height="40" /></b>
     <br />
    
   </p>
