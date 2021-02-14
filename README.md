@@ -74,7 +74,7 @@ DISTRIBUTED UNDER THE MIT LICENSE. SEE <a href="LICENSE" style="color:yellow">`L
 
 RAHUL DHANOLA - [@_DHANOLA](https://twitter.com/_DHANOLA) 
 
-e-m@il - rahuldhanola31@gmail.com
+E-M@IL - rahuldhanola31@gmail.com
 
 
 WAY TO MY N⭐️TES : [https://github.com/DHANOLA/CLASS-NOTIX](https://github.com/DHANOLA/CLASS-NOTIX)
