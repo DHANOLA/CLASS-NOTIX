@@ -1,1 +1,23 @@
+<h1 align="center">EXPERIMENT 8</h1>
+<!-- PROJECT LOGO -->
+<br />
+<p align="center">
+  <a href="https://github.com/DHANOLA/CLASS-NOTIX/edit/root/SEMESTER%201/PROGRAMMING%20AND%20DATA%20STRUCTURES%20LAB/EXPERIMENT%208">
+    <img src="https://media.giphy.com/media/xLiuPwRKGGTUACgVX0/giphy.gif" >
+  </a>
+
+  
+
+  <p align="center">
+  <b>C PROGRAMS USING STRUCTURE AND UNION.<img src="https://media.giphy.com/media/wH4rY2nPnEnp6/giphy.gif" width="40" height="40" /></b>
+    <br />
+   
+  </p>
+</p>
+
+
+
+ <a href="" style="color: ">💍 BASIC PROGRAM TO DEMONSTRATE THE CLEAR MEANING OF STRUCTURE AND UNION AND THE DIFFERENCE BETWEEN THEM.  [PLEASE FILL HYPERLINK]</a><br /><a href="" style="color: ">💍 A RECORD CONTAINS NAME OF CRICKETER, HIS AGE, DATE OF DEBUT [A STRUCTURE WITH DATE, MONTH, AND YEAR AS ITS ELEMENTS], NUMBER OF TEST MATCHES THAT HE HAS PLAYED, AND THE AVERAGE RUNS THAT HE HAS SCORED IN EACH TEST MATCH. CREATE AN ARRAY OF STRUCTURE TO HOLD RECORDS OF 20 SUCH CRICKETERS AND READ THESE RECORDS. [HINT: USE NESTED STRUCTURE]  [PLEASE FILL HYPERLINK]</a><br />
+    
+
 
