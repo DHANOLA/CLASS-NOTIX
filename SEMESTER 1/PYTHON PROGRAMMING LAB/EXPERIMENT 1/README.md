@@ -17,22 +17,73 @@
 
 
 
-   <a href="" style="color: ">❇️  SAY HELLO TO THE USER : PRINT<br /> HELLO EVERYONE !!! [PLEASE FILL HYPERLINK]</a><br />
-     <a href="" style="color: ">❇️ PRINT HELLO WORLD IN THE FOLLOWING WAY :<br /> 
- Hello
- <br />  WORLD  [PLEASE FILL HYPERLINK]</a><br />
-    <a href="" style="color: ">❇️  PPRINT HELLO WORLD IN THE FOLLOWING WAY :<br /> 
- Hello
- <br /> &emsp;&emsp; WORLD [PLEASE FILL HYPERLINK]</a><br />
-     <a href="" style="color: ">❇️ MULTIPLY A GIVEN NUMBER ‘N’ BY 8 USING BITWISE OPERATOR. [HINT: N << 3]  [PLEASE FILL HYPERLINK]</a><br />
-    <a href="" style="color: ">❇️  Say Hello to the user : Print Hello Everyone !!! [PLEASE FILL HYPERLINK]</a><br />
-     <a href="" style="color: ">❇️ MULTIPLY A GIVEN NUMBER ‘N’ BY 8 USING BITWISE OPERATOR. [HINT: N << 3]  [PLEASE FILL HYPERLINK]</a><br />
-    <a href="" style="color: ">❇️  Say Hello to the user : Print Hello Everyone !!! [PLEASE FILL HYPERLINK]</a><br />
-     <a href="" style="color: ">❇️ MULTIPLY A GIVEN NUMBER ‘N’ BY 8 USING BITWISE OPERATOR. [HINT: N << 3]  [PLEASE FILL HYPERLINK]</a><br />
-    <a href="" style="color: ">❇️  Say Hello to the user : Print Hello Everyone !!! [PLEASE FILL HYPERLINK]</a><br />
-     <a href="" style="color: ">❇️ MULTIPLY A GIVEN NUMBER ‘N’ BY 8 USING BITWISE OPERATOR. [HINT: N << 3]  [PLEASE FILL HYPERLINK]</a><br />
-    <a href="" style="color: ">❇️  Say Hello to the user : Print Hello Everyone !!! [PLEASE FILL HYPERLINK]</a><br />
+   <a href="" style="color: ">❇️  SAY HELLO TO THE USER :  [PLEASE FILL HYPERLINK]</a><br />
+   ```json
+PRINT HELLO EVERYONE !!!
+```
+
+<a href="" style="color: ">❇️ PRINT HELLO WORLD IN THE FOLLOWING WAY : [PLEASE FILL HYPERLINK]</a><br /> 
+```json
+HELLO
+ WORLD
+```
+<a href="" style="color: ">❇️  PPRINT HELLO WORLD IN THE FOLLOWING WAY : [PLEASE FILL HYPERLINK]</a><br />
+```json
+HELLO
+     WORLD
+ ```
+ 
+ <a href="" style="color: ">❇️ SAY HELLO TO THE USER :  [PLEASE FILL HYPERLINK]</a><br />
+```json
+ DECLARE A STRING VARIABLE CALLED X AND ASSIGN IT THE VALUE “HELLO”.
+ PRINT OUT THE VALUE OF X
+ ```
+ <a href="" style="color: ">❇️  PRINT THE FOLLOWING : [PLEASE FILL HYPERLINK]</a><br />
+ ```json
+  ‘ BRIAN’S MOTHER : HE’S NOT THE MESSIAH.
+ HE’S A VERY NAUGHTY BOY ! ’
+ ```
+ <a href="" style="color: ">❇️  WRITE A PYTHON PROGRAMME TO PRINT THE FOLLOWING STRING IN A SPECIFIC FORMAT (SEE THE OUTPUT) [PLEASE FILL HYPERLINK]</a><br />
+ 
+ ```json
+  Output :
+ Twinkle, Twinkle, little star,
+      How I wonder What you are !
+      Up above the world so high,
+      Like a diamond in the sky.
+ Twinkle, Twinkle, little star,
+      How I wonder What you are
+ ```
+ 
+ <a href="" style="color: ">❇️  TAKE TWO VARIABLE A AND B. ASSIGN YOUR FIRST NAME AND LAST NAME. PRINT YOUR NAME AFTER ADDING YOUR FIRST NAME AND LAST NAME TOGETHER.[PLEASE FILL HYPERLINK]</a><br />
+ <a href="" style="color: ">❇️ GIVE YOURSELF A NICKNAME :<br /> DECLARE THREE VARIABLES, CONSISTING OF YOUR FIRST NAME, YOUR LAST NAME AND NICKNAME. WRITE A
+PROGRAM THAT PRINTS OUT YOUR FIRST NAME, THEN YOUR NICKNAME IN PARENTHESIS AND THEN YOUR LAST NAME.  [PLEASE FILL HYPERLINK]</a><br />
+
+```json
+  EXAMPLE OUTPUT : GEORGE ( WOODY ) WASHINGTON.
+ ```
+
+ <a href="" style="color: ">❇️  PRINT YOUR NAME THREE TIMES LIKE[PLEASE FILL HYPERLINK]</a><br />
+ 
+ ```json
+ GEORGEGEORGEGEORGE
+ ```
+ 
+ <a href="" style="color: ">❇️ PRINT YOUR NAME THREE TIMES LIKE  [PLEASE FILL HYPERLINK]</a><br />
+ 
+  ```json
+ GEORGE GEORGE GEORGE
+ ```
+ 
+ <a href="" style="color: ">❇️  DECLARE AND ASSIGN VALUES TO THE VARIABLES FIRST NAME, LAST NAME, ADDRESS, DOB, PROGRAMME,SEMESTER, SAP ID AND PRINT IN THE FOLLOWING WAY : [PLEASE FILL HYPERLINK]</a><br />
      
 
-
+ ```json
+ NAME : NIKUNJ BANSAL                                                                      SAP ID : 500069944
+DATE OF BIRTH : 13 OCT 1999
+ADDRESS : UPES
+          BIDHOLI CAMPUS
+          PINCODE : 248007
+PROGRAMME : AI & ML                                                                        SEMESTER : 1
+ ```
 
