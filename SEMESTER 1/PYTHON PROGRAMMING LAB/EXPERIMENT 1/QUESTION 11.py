@@ -1,0 +1,11 @@
+firstname="RAHUL"
+lastname="DHANOLA"
+address="DEHRADUN,INDIA"
+DOB="DD MONTH YYYY"
+Programme="PROGRAMME NAME"
+SEMESTER=1
+SAP_ID=123456789
+
+
+
+print("NAME:",firstname,lastname,"\t\t\t\t SAP ID:",SAP_ID,"\n DATE OF BIRTH:",DOB,"\n ADDRESS:",ADDRESS,"\n PROGRAMME:", PROGRAMME,"\t\t\t\tSEMESTER:", SEMESTER)
