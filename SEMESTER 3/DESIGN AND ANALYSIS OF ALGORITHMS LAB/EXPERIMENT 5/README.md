@@ -1,1 +1,32 @@
+<h1 align="center">EXPERIMENT 5</h1>
+<!-- PROJECT LOGO -->
+<br />
+<p align="center">
+  <a href="https://github.com/DHANOLA/CLASS-NOTIX/edit/root/SEMESTER%203/DESIGN%20AND%20ANALYSIS%20OF%20ALGORITHMS%20LAB/EXPERIMENT%205">
+    <img src="https://media.giphy.com/media/9uIjwFgumdKSw8gzpV/giphy.gif" >
+  </a>
 
+  
+
+  <p align="center">
+  <b>  GRAPH ALGORITHMS<img src="https://media.giphy.com/media/l0HlRnAWXxn0MhKLK/giphy.gif" width="40" height="40" /></b>
+    <br />
+   
+  </p>
+</p>
+
+
+
+   <a href="" style="color: ">🧿 FIND MINIMUM COST SPANNING TREE OF A GIVEN UNDIRECTED GRAPH USING KRUSKAL’S ALGORITHM [PLEASE FILL HYPERLINK]</a><br />
+
+
+<a href="" style="color: ">🧿  FIND MINIMUM COST SPANNING TREE OF A GIVEN UNDIRECTED GRAPH USING PRIM'S ALGORITHM[PLEASE FILL HYPERLINK]</a><br /> 
+
+<a href="" style="color: ">🧿FROM A GIVEN VERTEX IN A WEIGHTED CONNECTED GRAPH, FIND SHORTEST PATHS TO OTHER VERTICES USING DIJKSTRA'S ALGORITHM[PLEASE FILL HYPERLINK]</a><br />
+
+<a href="" style="color: ">🧿 FROM A GIVEN VERTEX IN A WEIGHTED CONNECTED GRAPH, FIND SHORTEST PATHS TO OTHER VERTICES NEGATIVE WEIGHTS (USING BELLMAN-FORD ALGORITHM).[PLEASE FILL HYPERLINK]</a><br />
+
+<a href="" style="color: ">🧿 PRINT ALL THE NODES REACHABLE FROM A GIVEN STARTING NODE IN A DIGRAPH USING BFS METHOD. CHECK WHETHER A GIVEN GRAPH IS CONNECTED OR NOT USING DFS METHOD.[PLEASE FILL HYPERLINK]</a><br />
+
+ 
+ 
