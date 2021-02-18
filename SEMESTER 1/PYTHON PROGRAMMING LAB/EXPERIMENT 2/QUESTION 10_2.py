@@ -12,4 +12,4 @@ for rows in range (0, n):
     for col in range (0, rows + 1):
         print ("A ", end = "")
         
-    print ("\n)
+    print ("\n")
