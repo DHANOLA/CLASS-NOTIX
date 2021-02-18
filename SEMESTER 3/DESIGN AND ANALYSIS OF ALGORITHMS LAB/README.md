@@ -1,1 +1,40 @@
+<h1 align="center">DESIGN AND ANALYSIS OF ALGORITHMS LAB 📚</h1>
+<!-- PROJECT LOGO -->
+<br />
+<p align="center">
+  <a href="https://github.com/DHANOLA/CLASS-NOTIX/edit/root/SEMESTER%203/DESIGN%20AND%20ANALYSIS%20OF%20ALGORITHMS%20LAB">
+    <img src="https://media.giphy.com/media/ID1YFWPr1HL985zjRJ/giphy.gif" >
+  </a>
+
+  
+
+  <p align="center">
+  <b>AN ALGORITHM IS A SEQUENCE OF STEPS TO SOLVE A PROBLEM. DESIGN AND ANALYSIS OF ALGORITHM IS VERY IMPORTANT FOR DESIGNING ALGORITHM TO SOLVE DIFFERENT TYPES OF PROBLEMS IN THE BRANCH OF COMPUTER SCIENCE AND INFORMATION TECHNOLOGY. .</b>
+    <br />
+   
+  </p>
+</p>
+
+
+<!-- TABLE OF CONTENTS -->
+<details open="open">
+  <summary><h2 style="display: inline-block">🏫 WE WILL BE HEADING 🎲 OVER :</h2></summary>
+  <ol>
+      <li>  <a href="https://github.com/DHANOLA/CLASS-NOTIX/edit/root/SEMESTER%203/DESIGN%20AND%20ANALYSIS%20OF%20ALGORITHMS%20LAB/EXPERIMENT%201" style="color: ">EXPERIMENT 1: BRUTE FORCE TECHNIQUES.</a></li>
+                <li><a href="https://github.com/DHANOLA/CLASS-NOTIX/edit/root/SEMESTER%203/DESIGN%20AND%20ANALYSIS%20OF%20ALGORITHMS%20LAB/EXPERIMENT%202" style="color: ">EXPERIMENT 2: DIVIDE AND CONQUER-I.</a></li>
+              <li><a href="https://github.com/DHANOLA/CLASS-NOTIX/edit/root/SEMESTER%203/DESIGN%20AND%20ANALYSIS%20OF%20ALGORITHMS%20LAB/EXPERIMENT%203" style="color: ">EXPERIMENT 3:DIVIDE AND CONQUER-II.</a></li>
+              <li><a href="https://github.com/DHANOLA/CLASS-NOTIX/edit/root/SEMESTER%203/DESIGN%20AND%20ANALYSIS%20OF%20ALGORITHMS%20LAB/EXPERIMENT%204" style="color: ">EXPERIMENT 4:GREEDY METHOD.</a></li>
+              <li><a href="https://github.com/DHANOLA/CLASS-NOTIX/edit/root/SEMESTER%203/DESIGN%20AND%20ANALYSIS%20OF%20ALGORITHMS%20LAB/EXPERIMENT%205" style="color: ">EXPERIMENT 5: GRAPH ALGORITHMS </a></li>
+             <li><a href="https://github.com/DHANOLA/CLASS-NOTIX/edit/root/SEMESTER%203/DESIGN%20AND%20ANALYSIS%20OF%20ALGORITHMS%20LAB/EXPERIMENT%206" style="color: ">EXPERIMENT 6: DYNAMIC PROGRAMMING-I.</a></li>
+              <li><a href="https://github.com/DHANOLA/CLASS-NOTIX/edit/root/SEMESTER%203/DESIGN%20AND%20ANALYSIS%20OF%20ALGORITHMS%20LAB/EXPERIMENT%207" style="color: ">EXPERIMENT 7: DYNAMIC PROGRAMMING-II.</a></li>
+            <li><a href="https://github.com/DHANOLA/CLASS-NOTIX/edit/root/SEMESTER%203/DESIGN%20AND%20ANALYSIS%20OF%20ALGORITHMS%20LAB/EXPERIMENT%208" style="color: ">EXPERIMENT 8: SORTING IN LINEAR TIME LOWER BOUNDS</a></li>
+            <li><a href="https://github.com/DHANOLA/CLASS-NOTIX/edit/root/SEMESTER%203/DESIGN%20AND%20ANALYSIS%20OF%20ALGORITHMS%20LAB/EXPERIMENT%209" style="color: ">EXPERIMENT 9:BACKTRACKING</a></li>
+            <li><a href="https://github.com/DHANOLA/CLASS-NOTIX/edit/root/SEMESTER%203/DESIGN%20AND%20ANALYSIS%20OF%20ALGORITHMS%20LAB/EXPERIMENT%2010" style="color: ">EXPERIMENT 10: BRANCH AND BOUND </a></li>
+           
+          
+        
+  </ol>
+</details>
+
+
 
