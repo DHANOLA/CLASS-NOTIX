@@ -9,7 +9,7 @@
   
 
   <p align="center">
-  <b>METHODS AND FUNCTION, VARIOUS INBUILT FUNCTIONS AND LAMBDA FUNCTION ❔</b>
+  <b>FILE HANDLING, OPEN A FILE, AND READ/WRITE A FILE ❔</b>
     <br />
    
   </p>
