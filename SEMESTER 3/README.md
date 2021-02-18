@@ -1,8 +1,8 @@
-<h1 align="center">WELCOME TO SEMESTER 2 ☠️</h1>
+<h1 align="center">WELCOME TO SEMESTER 3 ☠️</h1>
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/DHANOLA/CLASS-NOTIX/tree/root/SEMESTER%202">
+  <a href="https://github.com/DHANOLA/CLASS-NOTIX/tree/root/SEMESTER%203">
     <img src="https://media.giphy.com/media/l0HlIZNLEvJXVQBgY/giphy.gif" >
   </a>
 
@@ -21,36 +21,105 @@
   <summary><h2 style="display: inline-block">🎅 COURSES WHERE I AM : 💲🅣🆄D📧ИT</h2></summary>
   <ol>
         <li>
-      <a href="https://github.com/DHANOLA/CLASS-NOTIX/tree/root/SEMESTER%202/ADVANCED%20DATA%20STRUCTURES%20LAB" style="color: ">ADVANCED DATA STRUCTURES LAB</a>
+      <a href="https://github.com/DHANOLA/CLASS-NOTIX/tree/root/SEMESTER%203/ADVANCED%20DATABASE%20MANAGEMENT%20SYSTEMS%20LAB" style="color: ">ADVANCED DATABASE MANAGEMENT SYSTEMS LAB</a>
        <ul>
-        <li><a href="https://github.com/DHANOLA/CLASS-NOTIX/tree/root/SEMESTER%202/ADVANCED%20DATA%20STRUCTURES%20LABEXPERIMENT%201" style="color: ">EXPERIMENT 1</a></li>
+        <li><a href="https://github.com/DHANOLA/CLASS-NOTIX/tree/root/SEMESTER%203/DATA%20MINING%20AND%20PREDICTION%20BY%20MACHINES%20LAB/EXPERIMENT%201" style="color: ">EXPERIMENT 1</a></li>
       </ul>  <ul>
-        <li><a href="https://github.com/DHANOLA/CLASS-NOTIX/tree/root/SEMESTER%202/ADVANCED%20DATA%20STRUCTURES%20LAB/EXPERIMENT%202" style="color: ">EXPERIMENT 2</a></li>
+        <li><a href="https://github.com/DHANOLA/CLASS-NOTIX/tree/root/SEMESTER%203/DATA%20MINING%20AND%20PREDICTION%20BY%20MACHINES%20LAB/EXPERIMENT%202" style="color: ">EXPERIMENT 2</a></li>
       </ul>  <ul>
-        <li><a href="https://github.com/DHANOLA/CLASS-NOTIX/tree/root/SEMESTER%202/ADVANCED%20DATA%20STRUCTURES%20LAB/EXPERIMENT%203" style="color: ">EXPERIMENT 3</a></li>
+        <li><a href="https://github.com/DHANOLA/CLASS-NOTIX/tree/root/SEMESTER%203/DATA%20MINING%20AND%20PREDICTION%20BY%20MACHINES%20LAB/EXPERIMENT%203" style="color: ">EXPERIMENT 3</a></li>
       </ul>  <ul>
-        <li><a href="https://github.com/DHANOLA/CLASS-NOTIX/tree/root/SEMESTER%202/ADVANCED%20DATA%20STRUCTURES%20LAB/EXPERIMENT%204" style="color: ">EXPERIMENT 4</a></li>
+        <li><a href="https://github.com/DHANOLA/CLASS-NOTIX/tree/root/SEMESTER%203/DATA%20MINING%20AND%20PREDICTION%20BY%20MACHINES%20LAB/EXPERIMENT%204" style="color: ">EXPERIMENT 4</a></li>
       </ul>  <ul>
-        <li><a href="https://github.com/DHANOLA/CLASS-NOTIX/tree/root/SEMESTER%202/ADVANCED%20DATA%20STRUCTURES%20LAB/EXPERIMENT%205" style="color: ">EXPERIMENT 5</a></li>
+        <li><a href="https://github.com/DHANOLA/CLASS-NOTIX/tree/root/SEMESTER%203/DATA%20MINING%20AND%20PREDICTION%20BY%20MACHINES%20LAB/EXPERIMENT%205" style="color: ">EXPERIMENT 5</a></li>
       </ul>  <ul>
-        <li><a href="https://github.com/DHANOLA/CLASS-NOTIX/tree/root/SEMESTER%202/ADVANCED%20DATA%20STRUCTURES%20LAB/EXPERIMENT%206" style="color: ">EXPERIMENT 6</a></li>
+        <li><a href="https://github.com/DHANOLA/CLASS-NOTIX/tree/root/SEMESTER%203/DATA%20MINING%20AND%20PREDICTION%20BY%20MACHINES%20LAB/EXPERIMENT%206" style="color: ">EXPERIMENT 6</a></li>
       </ul>  <ul>
-        <li><a href="https://github.com/DHANOLA/CLASS-NOTIX/tree/root/SEMESTER%202/ADVANCED%20DATA%20STRUCTURES%20LAB/EXPERIMENT%207" style="color: ">EXPERIMENT 7</a></li>
+        <li><a href="https://github.com/DHANOLA/CLASS-NOTIX/tree/root/SEMESTER%203/DATA%20MINING%20AND%20PREDICTION%20BY%20MACHINES%20LAB/EXPERIMENT%207" style="color: ">EXPERIMENT 7</a></li>
       </ul>  <ul>
-        <li><a href="https://github.com/DHANOLA/CLASS-NOTIX/tree/root/SEMESTER%202/ADVANCED%20DATA%20STRUCTURES%20LAB/EXPERIMENT%208" style="color: ">EXPERIMENT 8</a></li>
+        <li><a href="https://github.com/DHANOLA/CLASS-NOTIX/tree/root/SEMESTER%203/DATA%20MINING%20AND%20PREDICTION%20BY%20MACHINES%20LAB/EXPERIMENT%208" style="color: ">EXPERIMENT 8</a></li>
       </ul>  <ul>
-        <li><a href="https://github.com/DHANOLA/CLASS-NOTIX/tree/root/SEMESTER%202/ADVANCED%20DATA%20STRUCTURES%20LAB/EXPERIMENT%209" style="color: ">EXPERIMENT 9</a></li>
+        <li><a href="https://github.com/DHANOLA/CLASS-NOTIX/tree/root/SEMESTER%203/DATA%20MINING%20AND%20PREDICTION%20BY%20MACHINES%20LAB/EXPERIMENT%209" style="color: ">EXPERIMENT 9</a></li>
       </ul>  <ul>
-        <li><a href="https://github.com/DHANOLA/CLASS-NOTIX/tree/root/SEMESTER%202/ADVANCED%20DATA%20STRUCTURES%20LAB/EXPERIMENT%2010" style="color: ">EXPERIMENT 10</a></li>
-      </ul><ul>
-        <li><a href="https://github.com/DHANOLA/CLASS-NOTIX/tree/root/SEMESTER%202/ADVANCED%20DATA%20STRUCTURES%20LAB/EXPERIMENT%2011" style="color: ">EXPERIMENT 11</a></li>
-      </ul><ul>
-        <li><a href="https://github.com/DHANOLA/CLASS-NOTIX/tree/root/SEMESTER%202/ADVANCED%20DATA%20STRUCTURES%20LAB/EXPERIMENT%2012" style="color: ">EXPERIMENT 12</a></li>
+        <li><a href="https://github.com/DHANOLA/CLASS-NOTIX/tree/root/SEMESTER%203/DATA%20MINING%20AND%20PREDICTION%20BY%20MACHINES%20LAB/EXPERIMENT%2010" style="color: ">EXPERIMENT 10</a></li>
       </ul>
     </li>
+   
+  <li>
+ <a href="https://github.com/DHANOLA/CLASS-NOTIX/tree/root/SEMESTER%203/DATA%20MINING%20AND%20PREDICTION%20BY%20MACHINES%20LAB" style="color: ">DATA MINING AND PREDICTION BY MACHINES LAB</a>
+       <ul>
+        <li><a href="https://github.com/DHANOLA/CLASS-NOTIX/tree/root/SEMESTER%203/DATA%20MINING%20AND%20PREDICTION%20BY%20MACHINES%20LAB/EXPERIMENT%201" style="color: ">EXPERIMENT 1</a></li>
+      </ul>  <ul>
+        <li><a href="https://github.com/DHANOLA/CLASS-NOTIX/tree/root/SEMESTER%203/DATA%20MINING%20AND%20PREDICTION%20BY%20MACHINES%20LAB/EXPERIMENT%202" style="color: ">EXPERIMENT 2</a></li>
+      </ul>  <ul>
+        <li><a href="https://github.com/DHANOLA/CLASS-NOTIX/tree/root/SEMESTER%203/DATA%20MINING%20AND%20PREDICTION%20BY%20MACHINES%20LAB/EXPERIMENT%203" style="color: ">EXPERIMENT 3</a></li>
+      </ul>  <ul>
+        <li><a href="https://github.com/DHANOLA/CLASS-NOTIX/tree/root/SEMESTER%203/DATA%20MINING%20AND%20PREDICTION%20BY%20MACHINES%20LAB/EXPERIMENT%204" style="color: ">EXPERIMENT 4</a></li>
+      </ul>  <ul>
+        <li><a href="https://github.com/DHANOLA/CLASS-NOTIX/tree/root/SEMESTER%203/DATA%20MINING%20AND%20PREDICTION%20BY%20MACHINES%20LAB/EXPERIMENT%205" style="color: ">EXPERIMENT 5</a></li>
+      </ul>  <ul>
+        <li><a href="https://github.com/DHANOLA/CLASS-NOTIX/tree/root/SEMESTER%203/DATA%20MINING%20AND%20PREDICTION%20BY%20MACHINES%20LAB/EXPERIMENT%206" style="color: ">EXPERIMENT 6</a></li>
+      </ul>  <ul>
+        <li><a href="https://github.com/DHANOLA/CLASS-NOTIX/tree/root/SEMESTER%203/DATA%20MINING%20AND%20PREDICTION%20BY%20MACHINES%20LAB/EXPERIMENT%207" style="color: ">EXPERIMENT 7</a></li>
+      </ul>  <ul>
+        <li><a href="https://github.com/DHANOLA/CLASS-NOTIX/tree/root/SEMESTER%203/DATA%20MINING%20AND%20PREDICTION%20BY%20MACHINES%20LAB/EXPERIMENT%208" style="color: ">EXPERIMENT 8</a></li>
+      </ul>  <ul>
+        <li><a href="https://github.com/DHANOLA/CLASS-NOTIX/tree/root/SEMESTER%203/DATA%20MINING%20AND%20PREDICTION%20BY%20MACHINES%20LAB/EXPERIMENT%209" style="color: ">EXPERIMENT 9</a></li>
+      </ul>  <ul>
+        <li><a href="https://github.com/DHANOLA/CLASS-NOTIX/tree/root/SEMESTER%203/DATA%20MINING%20AND%20PREDICTION%20BY%20MACHINES%20LAB/EXPERIMENT%2010" style="color: ">EXPERIMENT 10</a></li>
+      </ul>
+    </li>
+       
+   <li>
+      <a href="https://github.com/DHANOLA/CLASS-NOTIX/tree/root/SEMESTER%203/DESIGN%20AND%20ANALYSIS%20OF%20ALGORITHMS%20LAB" style="color: ">DESIGN AND ANALYSIS OF ALGORITHMS LAB</a>
+       <ul>
+        <li><a href="https://github.com/DHANOLA/CLASS-NOTIX/tree/root/SEMESTER%203/DESIGN%20AND%20ANALYSIS%20OF%20ALGORITHMS%20LAB/EXPERIMENT%201" style="color: ">EXPERIMENT 1</a></li>
+      </ul>  <ul>
+        <li><a href="https://github.com/DHANOLA/CLASS-NOTIX/tree/root/SEMESTER%203/DESIGN%20AND%20ANALYSIS%20OF%20ALGORITHMS%20LAB/EXPERIMENT%202" style="color: ">EXPERIMENT 2</a></li>
+      </ul>  <ul>
+        <li><a href="https://github.com/DHANOLA/CLASS-NOTIX/tree/root/SEMESTER%203/DESIGN%20AND%20ANALYSIS%20OF%20ALGORITHMS%20LAB/EXPERIMENT%203" style="color: ">EXPERIMENT 3</a></li>
+      </ul>  <ul>
+        <li><a href="https://github.com/DHANOLA/CLASS-NOTIX/tree/root/SEMESTER%203/DESIGN%20AND%20ANALYSIS%20OF%20ALGORITHMS%20LAB/EXPERIMENT%204" style="color: ">EXPERIMENT 4</a></li>
+      </ul>  <ul>
+        <li><a href="https://github.com/DHANOLA/CLASS-NOTIX/tree/root/SEMESTER%203/DESIGN%20AND%20ANALYSIS%20OF%20ALGORITHMS%20LAB/EXPERIMENT%205" style="color: ">EXPERIMENT 5</a></li>
+      </ul>  <ul>
+        <li><a href="https://github.com/DHANOLA/CLASS-NOTIX/tree/root/SEMESTER%203/DESIGN%20AND%20ANALYSIS%20OF%20ALGORITHMS%20LAB/EXPERIMENT%206" style="color: ">EXPERIMENT 6</a></li>
+      </ul>  <ul>
+        <li><a href="https://github.com/DHANOLA/CLASS-NOTIX/tree/root/SEMESTER%203/DESIGN%20AND%20ANALYSIS%20OF%20ALGORITHMS%20LAB/EXPERIMENT%207" style="color: ">EXPERIMENT 7</a></li>
+      </ul>  <ul>
+        <li><a href="https://github.com/DHANOLA/CLASS-NOTIX/tree/root/SEMESTER%203/DESIGN%20AND%20ANALYSIS%20OF%20ALGORITHMS%20LAB/EXPERIMENT%208" style="color: ">EXPERIMENT 8</a></li>
+      </ul>  <ul>
+        <li><a href="https://github.com/DHANOLA/CLASS-NOTIX/tree/root/SEMESTER%203/DESIGN%20AND%20ANALYSIS%20OF%20ALGORITHMS%20LAB/EXPERIMENT%209" style="color: ">EXPERIMENT 9</a></li>
+      </ul>  <ul>
+        <li><a href="https://github.com/DHANOLA/CLASS-NOTIX/tree/root/SEMESTER%203/DESIGN%20AND%20ANALYSIS%20OF%20ALGORITHMS%20LAB/EXPERIMENT%2010" style="color: ">EXPERIMENT 10</a></li>
+      </ul>
+    </li>
+      <li>
+      <a href="https://github.com/DHANOLA/CLASS-NOTIX/tree/root/SEMESTER%203/OPERATING%20SYSTEMS%20LAB" style="color: ">OPERATING SYSTEMS LAB</a>
+       <ul>
+        <li><a href="https://github.com/DHANOLA/CLASS-NOTIX/tree/root/SEMESTER%203/OPERATING%20SYSTEMS%20LAB/EXPERIMENT%201" style="color: ">EXPERIMENT 1</a></li>
+      </ul>  <ul>
+        <li><a href="https://github.com/DHANOLA/CLASS-NOTIX/tree/root/SEMESTER%203/OPERATING%20SYSTEMS%20LAB/EXPERIMENT%202" style="color: ">EXPERIMENT 2</a></li>
+      </ul>  <ul>
+        <li><a href="https://github.com/DHANOLA/CLASS-NOTIX/tree/root/SEMESTER%203/OPERATING%20SYSTEMS%20LAB/EXPERIMENT%203" style="color: ">EXPERIMENT 3</a></li>
+      </ul>  <ul>
+        <li><a href="https://github.com/DHANOLA/CLASS-NOTIX/tree/root/SEMESTER%203/OPERATING%20SYSTEMS%20LAB/EXPERIMENT%204" style="color: ">EXPERIMENT 4</a></li>
+      </ul>  <ul>
+        <li><a href="https://github.com/DHANOLA/CLASS-NOTIX/tree/root/SEMESTER%203/OPERATING%20SYSTEMS%20LAB/EXPERIMENT%205" style="color: ">EXPERIMENT 5</a></li>
+      </ul>  <ul>
+        <li><a href="https://github.com/DHANOLA/CLASS-NOTIX/tree/root/SEMESTER%203/OPERATING%20SYSTEMS%20LAB/EXPERIMENT%206" style="color: ">EXPERIMENT 6</a></li>
+      </ul>  <ul>
+        <li><a href="https://github.com/DHANOLA/CLASS-NOTIX/tree/root/SEMESTER%203/OPERATING%20SYSTEMS%20LAB/EXPERIMENT%207" style="color: ">EXPERIMENT 7</a></li>
+      </ul>  <ul>
+        <li><a href="https://github.com/DHANOLA/CLASS-NOTIX/tree/root/SEMESTER%203/OPERATING%20SYSTEMS%20LAB/EXPERIMENT%208" style="color: ">EXPERIMENT 8</a></li>
+      </ul>  <ul>
+        <li><a href="https://github.com/DHANOLA/CLASS-NOTIX/tree/root/SEMESTER%203/OPERATING%20SYSTEMS%20LAB/EXPERIMENT%209" style="color: ">EXPERIMENT 9</a></li>
+      </ul>  <ul>
+        <li><a href="https://github.com/DHANOLA/CLASS-NOTIX/tree/root/SEMESTER%203/OPERATING%20SYSTEMS%20LAB/EXPERIMENT%2010" style="color: ">EXPERIMENT 10</a></li>
+      </ul>       
+    </li>
     
-    
-    
+        
   </ol>
 </details>
 
