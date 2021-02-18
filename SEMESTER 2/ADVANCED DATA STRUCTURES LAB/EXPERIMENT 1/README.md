@@ -3,13 +3,13 @@
 <br />
 <p align="center">
   <a href="https://github.com/DHANOLA/CLASS-NOTIX/tree/root/SEMESTER%202/ADVANCED%20DATA%20STRUCTURES%20LAB/EXPERIMENT%201">
-    <img src="https://media.giphy.com/media/9uIjwFgumdKSw8gzpV/giphy.gif" >
+    <img src="https://media.giphy.com/media/wW4FobicKarqU/giphy.gif" >
   </a>
 
   
 
   <p align="center">
-  <b>CLASSES AND OBJECTS <img src="https://media.giphy.com/media/l0HlRnAWXxn0MhKLK/giphy.gif" width="40" height="40" /></b>
+  <b>CLASSES AND OBJECTS ❔</b>
     <br />
    
   </p>
