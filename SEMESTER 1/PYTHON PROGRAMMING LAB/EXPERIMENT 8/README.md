@@ -9,7 +9,7 @@
   
 
   <p align="center">
-  <b>CLASSES AND OBJECTS, CONSTRUCTORS.<img src="https://media.giphy.com/media/wH4rY2nPnEnp6/giphy.gif" width="40" height="40" /></b>
+  <b>METHODS AND FUNCTION, VARIOUS INBUILT FUNCTIONS AND LAMBDA FUNCTION <img src="https://media.giphy.com/media/wH4rY2nPnEnp6/giphy.gif" width="40" height="40" /></b>
     <br />
    
   </p>
