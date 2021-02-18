@@ -35,8 +35,14 @@
  <a href="" style="color: ">🧿 COUNT AND PRINT ALL NUMBERS DIVISIBLE BY 5 OR 7 BETWEEN 1 TO 100.[PLEASE FILL HYPERLINK]</a><br />
  <a href="" style="color: ">🧿  ALL LOWER CASE TO UPPER IN STRING.[PLEASE FILL HYPERLINK]</a><br />
  <a href="" style="color: ">🧿  PRINT PRIME NUMBERS BETWEEN 1 AND 100.[PLEASE FILL HYPERLINK]</a><br />
- <a href="" style="color: ">🧿  PRINT THE TABLE FOR A GIVEN NUMBER[PLEASE FILL HYPERLINK]</a><br />
+ <a href="" style="color: ">🧿  PRINT THE TABLE FOR A GIVEN NUMBER:[PLEASE FILL HYPERLINK]</a><br />
  
  
- 
+ ```json
+ 5 * 1 = 5
+5 * 2 = 10
+.   .    .
+.   .    .
+.   .    .
+5 * 10 = 50
  
