@@ -1,1 +1,29 @@
+<h1 align="center">EXPERIMENT 7</h1>
+<!-- PROJECT LOGO -->
+<br />
+<p align="center">
+  <a href="https://github.com/DHANOLA/CLASS-NOTIX/edit/root/SEMESTER%203/DESIGN%20AND%20ANALYSIS%20OF%20ALGORITHMS%20LAB/EXPERIMENT%207">
+    <img src="https://media.giphy.com/media/wW4FobicKarqU/giphy.gif" >
+  </a>
+
+  
+
+  <p align="center">
+  <b> DYNAMIC PROGRAMMING-II ❔</b>
+    <br />
+   
+  </p>
+</p>
+
+
+
+   <a href="" style="color: ">💫 IMPLEMENT FLOYD’S ALGORITHM FOR THE ALL-PAIRS-SHORTEST-PATHS PROBLEM. [PLEASE FILL HYPERLINK]</a><br />
+
+
+<a href="" style="color: ">💫 COMPUTE THE TRANSITIVE CLOSURE OF A GIVEN DIRECTED GRAPH USING WARSHALL’S ALGORITHM[PLEASE FILL HYPERLINK]</a><br /> 
+
+<a href="" style="color: ">💫 GIVEN TWO SEQUENCES, FIND THE LENGTH OF LONGEST SUBSEQUENCE PRESENT IN BOTH OF THEM. ASUBSEQUENCE IS A SEQUENCE THAT APPEARS IN THE SAME RELATIVE ORDER, BUT NOT NECESSARILY CONTIGUOUS. FOR EXAMPLE, “ABC”, “ABG”, “BDF”, “AEG”, ‘”ACEFG” ETC ARE SUBSEQUENCES OF “ABCDEFG”. [PLEASE FILL HYPERLINK]</a><br />
+
+
+
 
