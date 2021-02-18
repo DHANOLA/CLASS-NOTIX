@@ -1,1 +1,34 @@
+<h1 align="center">EXPERIMENT 1</h1>
+<!-- PROJECT LOGO -->
+<br />
+<p align="center">
+  <a href="https://github.com/DHANOLA/CLASS-NOTIX/tree/root/SEMESTER%202/ADVANCED%20DATA%20STRUCTURES%20LAB/EXPERIMENT%201">
+    <img src="https://media.giphy.com/media/9uIjwFgumdKSw8gzpV/giphy.gif" >
+  </a>
 
+  
+
+  <p align="center">
+  <b>CLASSES AND OBJECTS <img src="https://media.giphy.com/media/l0HlRnAWXxn0MhKLK/giphy.gif" width="40" height="40" /></b>
+    <br />
+   
+  </p>
+</p>
+
+<!-- TABLE OF CONTENTS -->
+<details open="open">
+  <summary><h2 style="display: inline-block">❇️ OBJECTIVE: TO IMPLEMENT THE CONCEPT OF CLASSES AND OBJECTS, ENCAPSULATION, ABSTRACTION AND DATA HIDING WHILE APPLYING THE DIFFERENT OPERATORS, SEQUENTIAL AND LOOPING CONSTRUCTS.  <br /> <br /> ❇️ LIST OF LAB ACTIVITIES: WRITE ALGORITHM, PREPARE TEST CASES AND DRY RUN THE ALGORITHM TO TEST THE DESIGN. CODE USING C++ LANGUAGE AND EVALUATE THE CODE USING THE TEST CASES SO AS TO OBTAIN THE DESIRED RESULTS.</h2></summary>
+  <ol>
+ 
+ <a href="" style="color: ">🧿 CONSIDER RECTANGLE, SQUARE, TRIANGLE AND CIRCLE AS 4 GIVEN SHAPES WITH A COMMON AREA OF 314 sq.cm. THE LENGTH OF A RECTANGLE IS 2cm AND HEIGHT OF RIGHT-ANGLED TRIANGLE IS 4cm. FIND THE SHAPE WHICH HAS THE SMALLEST PERIMETER AND LARGEST PERIMETER.[PLEASE FILL HYPERLINK]</a><br />
+ 
+ 
+ <a href="" style="color: ">🧿 USE FOR LOOP TO PRINT THE TRUTH TABLE FOR THE EXPRESSION XY+Z. [PLEASE FILL HYPERLINK]</a><br /> 
+ 
+ <a href="" style="color: ">🧿 CONVERT DECIMAL NUMBER INTO A BINARY NUMBER USING 1D ARRAY[PLEASE FILL HYPERLINK]</a><br />
+
+  </ol>
+</details>
+
+
+  
