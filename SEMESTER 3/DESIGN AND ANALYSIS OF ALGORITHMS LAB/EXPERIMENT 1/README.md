@@ -1,1 +1,33 @@
+<h1 align="center">EXPERIMENT 1</h1>
+<!-- PROJECT LOGO -->
+<br />
+<p align="center">
+  <a href="https://github.com/DHANOLA/CLASS-NOTIX/edit/root/SEMESTER%203/DESIGN%20AND%20ANALYSIS%20OF%20ALGORITHMS%20LAB/EXPERIMENT%201">
+    <img src="https://media.giphy.com/media/xLiuPwRKGGTUACgVX0/giphy.gif" >
+  </a>
 
+  
+
+  <p align="center">
+  <b> BRUTE FORCE TECHNIQUES <img src="https://media.giphy.com/media/wH4rY2nPnEnp6/giphy.gif" width="40" height="40" /></b>
+    <br />
+   
+  </p>
+</p>
+
+
+
+   <a href="" style="color: ">💍 SORT A GIVEN SET OF ELEMENTS USING BUBBLE AND SELECTION SORT AND HENCE FIND THE TIME REQUIRED TO SORT ELEMENTS [PLEASE FILL HYPERLINK]</a><br />
+  
+
+<a href="" style="color: ">💍 PERFORM LINEAR SEARCH AND FIND THE TIME REQUIRED TO SEARCH AN ELEMENT. [PLEASE FILL HYPERLINK]</a><br /> 
+
+<a href="" style="color: ">💍 GIVEN A STRING CALLED TEXT WITH ‘N’ CHARACTERS AND ANOTHER STRING CALLED PATTERN WITH ‘M’ CHARACTERS (M<=N) .WRITE A PROGRAM WHICH IMPLEMENTS BRUTE FORCE STRING MATCHING TO SEARCH FOR A GIVEN PATTERN IN THE TEXT. IF THE PATTERN IS PRESENT THEN FIND THE POSITION OF FIRST OCCURRENCES OF PATTERN IN THAT TEXT.[PLEASE FILL HYPERLINK]</a><br />
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
