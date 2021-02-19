@@ -1,6 +1,6 @@
 b=float(input("enter the base of triangle: "))
 
-h=float(input("enter the base of height: "))
+h=float(input("enter the base of triangle: "))
 
 area=.5*b*h
 
