@@ -3,13 +3,13 @@
 <br />
 <p align="center">
   <a href="https://github.com/DHANOLA/CLASS-NOTIX/tree/root/SEMESTER%203/OPERATING%20SYSTEMS%20LAB/EXPERIMENT%207">
-    <img src="https://media.giphy.com/media/3o85xxHriUi8INnaco/giphy.gif" >
+    <img src="https://media.giphy.com/media/gKlzbbXy7OtZecLDGt/giphy.gif">
   </a>
 
   
 
   <p align="center">
-  <b> FILE MANIPULATION <img src="https://media.giphy.com/media/Z1Exz24FbX3Ko/giphy.gif" width="40" height="40" /></b>
+  <b> FILE MANIPULATION <img src="https://media.giphy.com/media/ylyUQmwRhTyxiD5CFO/giphy.gif" width="40" height="40" /></b>
     <br />
    
   </p>
