@@ -3,7 +3,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/DHANOLA/CLASS-NOTIX/tree/root/SEMESTER%203/OPERATING%20SYSTEMS%20LAB/EXPERIMENT%208">
-    <img src="https://media.giphy.com/media/ylyUQmwRhTyxiD5CFO/giphy.gif" >
+    <img src="https://media.giphy.com/media/xLiuPwRKGGTUACgVX0/giphy.gif" >
   </a>
 
   
