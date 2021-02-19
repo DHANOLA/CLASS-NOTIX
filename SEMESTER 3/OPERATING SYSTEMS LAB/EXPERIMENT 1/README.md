@@ -1,4 +1,3 @@
-<h1 align="center">EXPERIMENT 1</h1>
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
