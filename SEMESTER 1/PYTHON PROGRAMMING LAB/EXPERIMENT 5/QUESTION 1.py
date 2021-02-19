@@ -1,4 +1,4 @@
-string=raw_input("Enter string:")
+string=input("Enter string:")
 
 
 count=0
