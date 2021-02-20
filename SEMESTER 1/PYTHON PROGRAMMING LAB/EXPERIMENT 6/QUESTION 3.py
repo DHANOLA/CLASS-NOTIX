@@ -35,6 +35,24 @@ for j in d:
         print("movie name: ",j)
 
 
-C) PRINT MOVIES THAT MADE A PROFIT.
-D) PRINT MOVIES THAT MADE A LOSS.
-E) PRINT MOVIES DIRECTED BY A PARTICULAR DIRECTOR.
+#C) PRINT MOVIES THAT MADE A PROFIT.
+
+
+for j in d:
+    if d[j][2]<d[j][3]:
+        print("movie name: ",j)
+        
+        
+#D) PRINT MOVIES THAT MADE A LOSS.
+for j in d:
+    if d[j][2]>d[j][3]:
+        print("movie name: ",j)
+        
+
+#E) PRINT MOVIES DIRECTED BY A PARTICULAR DIRECTOR.
+
+
+name=input("Enter name of director: ")
+for j in d:
+    if d[j][1]==name:
+        print("movie name: ",j)
