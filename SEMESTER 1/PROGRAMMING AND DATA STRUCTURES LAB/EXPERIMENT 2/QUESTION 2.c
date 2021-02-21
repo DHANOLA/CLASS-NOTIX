@@ -16,4 +16,6 @@ int main()
         number = number << 2;
     printf("%d x 8 = %d\n", tempnum, number);
     
+ 
+ return 0;
     }
