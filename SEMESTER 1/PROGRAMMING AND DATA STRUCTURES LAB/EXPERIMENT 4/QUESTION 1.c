@@ -25,5 +25,7 @@ int main()
         ci=amount-p;
 
         printf("\nCompound interest = %.3f",ci);
+  
+  return 0;
 
 }
