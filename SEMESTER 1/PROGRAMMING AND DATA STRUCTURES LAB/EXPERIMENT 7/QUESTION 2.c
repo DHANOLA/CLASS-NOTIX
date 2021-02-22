@@ -1,11 +1,11 @@
 #include<stdio.h>
 #include<math.h>
-float determinant(float [][25], float);
-void cofactor(float [][25], float);
-void transpose(float [][25], float [][25], float);
+float determinant(float [][3], float);
+void cofactor(float [][3], float);
+void transpose(float [][3], float [][3], float);
 int main()
 {
-  float a[25][25], k, d;
+  float a[3][3], k, d;
   int i, j;
   printf("Enter the order of the Matrix : ");
   scanf("%f", &k);
@@ -25,9 +25,9 @@ int main()
 }
  
 /*For calculating Determinant of the Matrix */
-float determinant(float a[25][25], float k)
+float determinant(float a[3][3], float k)
 {
-  float s = 1, det = 0, b[25][25];
+  float s = 1, det = 0, b[3][3];
   int i, j, m, n, c;
   if (k == 1)
     {
@@ -66,9 +66,9 @@ float determinant(float a[25][25], float k)
     return (det);
 }
  
-void cofactor(float num[25][25], float f)
+void cofactor(float num[3][3], float f)
 {
- float b[25][25], fac[25][25];
+ float b[3][3], fac[3][3];
  int p, q, m, n, i, j;
  for (q = 0;q < f; q++)
  {
@@ -99,10 +99,10 @@ void cofactor(float num[25][25], float f)
   transpose(num, fac, f);
 }
 /*Finding transpose of matrix*/ 
-void transpose(float num[25][25], float fac[25][25], float r)
+void transpose(float num[3][3], float fac[3][3], float r)
 {
   int i, j;
-  float b[25][25], inverse[25][25], d;
+  float b[3][3], inverse[3][3], d;
  
   for (i = 0;i < r; i++)
     {
