@@ -52,7 +52,7 @@ float determinant(float a[25][25], float k)
                     n++;
                    else
                     {
-                     n = 0;
+                     n = 0;  
                      m++;
                      }
                    }
