@@ -1,0 +1,9 @@
+file=open(input("enter the file name "),"r")
+
+
+larg=0
+for integer in file:
+    if integer>larg:
+        larg=integer
+        
+print("maximum number: ",larg)
