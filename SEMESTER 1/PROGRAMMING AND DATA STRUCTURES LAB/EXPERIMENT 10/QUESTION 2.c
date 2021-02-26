@@ -9,17 +9,29 @@ struct node
 }*h,*temp,*temp1,*temp2,*temp4;
  
 void insert1();
+
 void insert2();
+
 void insert3();
+
 void traversebeg();
+
 void traverseend(int);
 void sort();
+
 void search();
+
 void update();
+
 void delete();
- 
+
+
+
+
 int count = 0;
  
+
+
 void main()
 {
     int ch;
@@ -27,7 +39,9 @@ void main()
     h = NULL;
     temp = temp1 = NULL;
  
-    printf("\n 1 - Insert at beginning");
+
+ 
+ printf("\n 1 - Insert at beginning");
     printf("\n 2 - Insert at end");
     printf("\n 3 - Insert at position i");
     printf("\n 4 - Delete at i");
@@ -38,7 +52,9 @@ void main()
     printf("\n 9 - Update an element");
     printf("\n 10 - Exit");
  
-    while (1)
+    
+ while (1)
+ 
     {
         printf("\n Enter choice : ");
         scanf("%d", &ch);
@@ -61,14 +77,16 @@ void main()
             break;
         case 6:
             temp2 = h;
-            if (temp2 == NULL)
+ 
+          if (temp2 == NULL)
                 printf("\n Error : List empty to display ");
             else
             {
                 printf("\n Reverse order of linked list is : ");
                 traverseend(temp2->n);
             }
-            break;
+          
+          break;
         case 7:
             search();
             break;
@@ -86,7 +104,9 @@ void main()
     }
 }
  
-/* TO create an empty node */
+
+
+
 void create()
 {
     int data;
@@ -100,7 +120,9 @@ void create()
     count++;
 }
  
-/*  TO insert at beginning */
+
+
+
 void insert1()
 {
     if (h == NULL)
@@ -118,7 +140,9 @@ void insert1()
     }
 }
  
-/* To insert at end */
+
+
+
 void insert2()
 {
     if (h == NULL)
@@ -136,7 +160,8 @@ void insert2()
     }
 }
  
-/* To insert at any position */
+
+
 void insert3()
 {
     int pos, i = 2;
@@ -177,7 +202,9 @@ void insert3()
     }
 }
  
-/* To delete an element */
+
+
+
 void delete()
 {
     int i = 1, pos;
@@ -191,19 +218,26 @@ void delete()
         printf("\n Error : Position out of range to delete");
         return;
     }
-    if (h == NULL)
+    
+ 
+ if (h == NULL)
     {
         printf("\n Error : Empty list no elements to delete");
         return;
     }
     else
     {
-        while (i < pos)
+        
+     
+     while (i < pos)
+ 
+        
         {
             temp2 = temp2->next;
             i++;
         }
-        if (i == 1)
+ 
+     if (i == 1)
         {
             if (temp2->next == NULL)
             {
@@ -213,7 +247,9 @@ void delete()
                 return;
             }
         }
-        if (temp2->next == NULL)
+     
+     
+      if (temp2->next == NULL)
         {
             temp2->prev->next = NULL;
             free(temp2);
@@ -221,9 +257,11 @@ void delete()
             return;
         }
         temp2->next->prev = temp2->prev;
-        if (i != 1)
-            temp2->prev->next = temp2->next;    /* Might not need this statement if i == 1 check */
-        if (i == 1)
+      
+     if (i != 1)
+     
+       temp2->prev->next = temp2->next;    /* Might not need this statement if i == 1 check */
+         if (i == 1)
             h = temp2->next;
         printf("\n Node deleted");
         free(temp2);
@@ -231,7 +269,9 @@ void delete()
     count--;
 }
  
-/* Traverse from beginning */
+
+
+
 void traversebeg()
 {
     temp2 = h;
@@ -243,7 +283,9 @@ void traversebeg()
     }
     printf("\n Linked list elements from begining : ");
  
-    while (temp2->next != NULL)
+ 
+ 
+ while (temp2->next != NULL)
     {
         printf(" %d ", temp2->n);
         temp2 = temp2->next;
@@ -251,7 +293,9 @@ void traversebeg()
     printf(" %d ", temp2->n);
 }
  
-/* To traverse from end recursively */
+
+
+
 void traverseend(int i)
 {
     if (temp2 != NULL)
@@ -263,7 +307,9 @@ void traverseend(int i)
     }
 }
  
-/* To search for an element in the list */
+
+
+
 void search()
 {
     int data, count = 0;
@@ -276,7 +322,9 @@ void search()
     }
     printf("\n Enter value to search : ");
     scanf("%d", &data);
-    while (temp2 != NULL)
+    
+ while (temp2 != NULL)
+
     {
         if (temp2->n == data)
         {
@@ -290,7 +338,13 @@ void search()
     printf("\n Error : %d not found in list", data);
 }
  
-/* To update a node value in the list */
+
+
+
+
+
+
+
 void update()
 {
     int data, data1;
@@ -305,8 +359,11 @@ void update()
         printf("\n Error : List empty no node to update");
         return;
     }
-    while (temp2 != NULL)
-    {
+
+ 
+ while (temp2 != NULL)
+  
+   {
         if (temp2->n == data)
         {
  
@@ -318,10 +375,16 @@ void update()
             temp2 = temp2->next;
     }
  
-    printf("\n Error : %d not found in list to update", data);
+
+ 
+ 
+ printf("\n Error : %d not found in list to update", data);
 }
  
-/* To sort the linked list */
+
+
+
+
 void sort()
 {
     int i, j, x;
@@ -335,17 +398,23 @@ void sort()
         return;
     }
  
-    for (temp2 = h; temp2 != NULL; temp2 = temp2->next)
+ 
+ 
+ for (temp2 = h; temp2 != NULL; temp2 = temp2->next)
     {
         for (temp4 = temp2->next; temp4 != NULL; temp4 = temp4->next)
+ 
         {
             if (temp2->n > temp4->n)
             {
-                x = temp2->n;
+        
+             x = temp2->n;
                 temp2->n = temp4->n;
                 temp4->n = x;
             }
         }
     }
-    traversebeg();
+
+ traversebeg();
 }
+
