@@ -1,4 +1,4 @@
-Class Student:
+class Student:
   
   def setname(self,name):
     self.name=name
