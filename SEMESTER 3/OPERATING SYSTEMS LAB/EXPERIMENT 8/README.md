@@ -17,13 +17,13 @@
 
 
 
- <a href="" style="color: ">💍 SIMPLE FORK EXECUTION.[PLEASE FILL HYPERLINK]</a><br />
+ <a href="https://github.com/DHANOLA/CLASS-NOTIX/blob/root/SEMESTER%203/OPERATING%20SYSTEMS%20LAB/EXPERIMENT%208/QUESTION 1.c" style="color: ">💍 SIMPLE FORK EXECUTION.</a><br />
 ```json
 TO WRITE A PROGRAM TO SHOW THE FORK EXECUTION.
 ```
  
  
-  <a href="" style="color: ">💍 CFORK SYSTEM CALL.[PLEASE FILL HYPERLINK]</a><br />
+  <a href="https://github.com/DHANOLA/CLASS-NOTIX/blob/root/SEMESTER%203/OPERATING%20SYSTEMS%20LAB/EXPERIMENT%208/QUESTION 2.c" style="color: ">💍 CFORK SYSTEM CALL.</a><br />
 ```json
 TO WRITE A PROGRAM FOR IMPLEMENT THE FORK SYSTEM CALLS IN UNIX.
 ```
