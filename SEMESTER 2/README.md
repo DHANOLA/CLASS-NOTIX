@@ -23,7 +23,7 @@
         <li>
       <a href="https://github.com/DHANOLA/CLASS-NOTIX/tree/root/SEMESTER%202/ADVANCED%20DATA%20STRUCTURES%20LAB" style="color: ">ADVANCED DATA STRUCTURES LAB</a>
        <ul>
-        <li><a href="https://github.com/DHANOLA/CLASS-NOTIX/tree/root/SEMESTER%202/ADVANCED%20DATA%20STRUCTURES%20LABEXPERIMENT%201" style="color: ">EXPERIMENT 1</a></li>
+        <li><a href="https://github.com/DHANOLA/CLASS-NOTIX/tree/root/SEMESTER%202/ADVANCED%20DATA%20STRUCTURES%20LAB/EXPERIMENT%201" style="color: ">EXPERIMENT 1</a></li>
       </ul>  <ul>
         <li><a href="https://github.com/DHANOLA/CLASS-NOTIX/tree/root/SEMESTER%202/ADVANCED%20DATA%20STRUCTURES%20LAB/EXPERIMENT%202" style="color: ">EXPERIMENT 2</a></li>
       </ul>  <ul>
