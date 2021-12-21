@@ -1,0 +1,22 @@
+This is the output of randomized hill climbing - Simple Search
+
+The cost of best Solution [1, 8, 13, 19, 24, 30, 36, 40, 41, 42, 44, 45, 47, 49, 48, 46, 43, 39, 33, 27, 22, 18, 15, 16, 20, 23, 26, 29, 32, 35, 38, 37, 34, 31, 28, 25, 21, 17, 14, 12, 11, 10, 9, 7, 6, 3, 4, 5, 2, 0]
+The path of best solution 978
+Value of MEB count is  2000000
+********** %s seconds********* 34.640159606933594
+This is the output of simulated annealing - Sophisticated Search
+
+This is the output of randomized hill climbing - Simple Search
+
+The cost of best Solution [1, 8, 13, 19, 24, 30, 36, 40, 41, 42, 44, 45, 47, 49, 48, 46, 43, 39, 33, 27, 22, 18, 15, 16, 20, 23, 26, 29, 32, 35, 38, 37, 34, 31, 28, 25, 21, 17, 14, 12, 11, 10, 9, 7, 6, 3, 4, 5, 2, 0]
+The path of best solution 978
+Value of MEB count is  2000000
+********** %s seconds********* 34.601765394210815
+This is the output of simulated annealing - Sophisticated Search
+
+This is the output of randomized hill climbing - Simple Search
+
+The cost of best Solution [1, 8, 13, 19, 24, 30, 36, 40, 41, 42, 44, 45, 47, 49, 48, 46, 43, 39, 33, 27, 22, 18, 15, 16, 20, 23, 26, 29, 32, 35, 38, 37, 34, 31, 28, 25, 21, 17, 14, 12, 11, 10, 9, 7, 6, 3, 4, 5, 2, 0]
+The path of best solution 978
+Value of MEB count is  2000000
+********** %s seconds********* 34.2349374294281
