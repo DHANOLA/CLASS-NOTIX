@@ -112,10 +112,6 @@
         <li><a href="https://github.com/DHANOLA/CLASS-NOTIX/tree/root/SEMESTER%203/OPERATING%20SYSTEMS%20LAB/EXPERIMENT%207" style="color: ">EXPERIMENT 7</a></li>
       </ul>  <ul>
         <li><a href="https://github.com/DHANOLA/CLASS-NOTIX/tree/root/SEMESTER%203/OPERATING%20SYSTEMS%20LAB/EXPERIMENT%208" style="color: ">EXPERIMENT 8</a></li>
-      </ul>  <ul>
-        <li><a href="https://github.com/DHANOLA/CLASS-NOTIX/tree/root/SEMESTER%203/OPERATING%20SYSTEMS%20LAB/EXPERIMENT%209" style="color: ">EXPERIMENT 9</a></li>
-      </ul>  <ul>
-        <li><a href="https://github.com/DHANOLA/CLASS-NOTIX/tree/root/SEMESTER%203/OPERATING%20SYSTEMS%20LAB/EXPERIMENT%2010" style="color: ">EXPERIMENT 10</a></li>
       </ul>       
     </li>
     
