@@ -1,20 +1,37 @@
 #include <stdio.h>
+#include <stdlib.h>
 #include <unistd.h>
+
 #include <sys/types.h>
+#include <sys/wait.h>
+
 int main()
 {
-    pid_t p;
-    printf("before fork\n");
-    p = fork();
-    if (p == 0)
+    pid_t forkStatus;
+
+    forkStatus = fork();
+
+    /* Child... */
+    if (forkStatus == 0)
     {
-        printf("I am child having id %d\n", getpid());
-        printf("My parent's id is %d\n", getppid());
+        printf("Child is running, processing.\n");
+        sleep(5);
+        printf("Child is done, exiting.\n");
+
+        /* Parent... */
+    }
+    else if (forkStatus != -1)
+    {
+        printf("Parent is waiting...\n");
+
+        wait(NULL);
+        printf("Parent is exiting...\n");
     }
     else
     {
-        printf("My child's id is %d\n", p);
-        printf("I am parent having id %d\n", getpid());
+        perror("Error while calling the fork function");
     }
-    printf("Common\n");
+
+    return 0;
 }
+I
