@@ -1,1 +1,31 @@
+<h1 align="center">EXPERIMENT 8</h1>
+<!-- PROJECT LOGO -->
+<br />
+<p align="center">
+  <a href="https://github.com/DHANOLA/CLASS-NOTIX/tree/root/SEMESTER%204/OBJECT-ORIENTED%20PROGRAMMING%20LAB/EXPERIMENT%208">
+    <img src="https://media.giphy.com/media/gKlzbbXy7OtZecLDGt/giphy.gif" >
+  </a>
 
+  
+
+  <p align="center">
+  <b>JDBC<img src="https://media.giphy.com/media/l0HlRnAWXxn0MhKLK/giphy.gif" width="40" height="40" /></b>
+    <br />
+   
+  </p>
+</p>
+
+<!-- TABLE OF CONTENTS -->
+
+  <ol>
+ 
+<a href="https://github.com/DHANOLA/CLASS-NOTIX/tree/root/SEMESTER%204/OBJECT-ORIENTED%20PROGRAMMING%20LAB/EXPERIMENT%208/1" style="color: ">⚒️ CREATE A DATABASE TABLE TO STORE THE RECORDS OF EMPLOYEE IN A COMPANY. USE GETCONNECTION FUNCTION TO CONNECT THE DATABASE. THE STATEMENT OBJECT USES EXECUTEUPDATE FUNCTION TO CREATE A TABLE.</a><br />
+      
+<a href="https://github.com/DHANOLA/CLASS-NOTIX/tree/root/SEMESTER%204/OBJECT-ORIENTED%20PROGRAMMING%20LAB/EXPERIMENT%208/2" style="color: ">⚒️ CREATE A DATABASE OF EMPLOYEE OF COMPANY IN MYSQL AND THEN USE JAVA PROGRAM TO ACCESS THE DATABASE FOR INSERTING INFORMATION OF EMPLOYEES IN DATABASE. THE SQL STATEMENT CAN BE USED TO VIEW THE DETAILS OF THE DATA OF EMPLOYEES IN THE DATABASE. </a><br />
+     
+    
+  </ol>
+</details>
+
+
+  
