@@ -2,7 +2,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/DHANOLA/CLASS-NOTIX/tree/root/SEMESTER%204/DATA%20COMMUNICATION%20AND%20COMPUTER%20NETWORK%20LAB">
+  <a href="https://github.com/DHANOLA/CLASS-NOTIX/tree/root/SEMESTER%204/INTRODUCTION%20TO%20MACHINE%20LEARNING%20LAB">
     <img src="https://media.giphy.com/media/iPj5oRtJzQGxwzuCKV/giphy.gif" >
   </a>
 
