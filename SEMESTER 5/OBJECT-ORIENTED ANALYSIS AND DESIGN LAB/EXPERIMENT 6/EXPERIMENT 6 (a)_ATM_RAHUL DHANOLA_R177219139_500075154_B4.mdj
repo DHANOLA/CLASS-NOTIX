@@ -1,0 +1,96 @@
+{
+	"_type": "Project",
+	"_id": "AAAAAAFF+h6SjaM2Hec=",
+	"name": "Untitled",
+	"ownedElements": [
+		{
+			"_type": "UMLModel",
+			"_id": "AAAAAAFF+qBWK6M3Z8Y=",
+			"_parent": {
+				"$ref": "AAAAAAFF+h6SjaM2Hec="
+			},
+			"name": "Model",
+			"ownedElements": [
+				{
+					"_type": "UMLCollaboration",
+					"_id": "AAAAAAF8zGR+utUx97E=",
+					"_parent": {
+						"$ref": "AAAAAAFF+qBWK6M3Z8Y="
+					},
+					"name": "Collaboration1",
+					"ownedElements": [
+						{
+							"_type": "UMLInteraction",
+							"_id": "AAAAAAF8zGR+u9UyUS4=",
+							"_parent": {
+								"$ref": "AAAAAAF8zGR+utUx97E="
+							},
+							"name": "Interaction1",
+							"ownedElements": [
+								{
+									"_type": "UMLCommunicationDiagram",
+									"_id": "AAAAAAF8zGR+vNUzhf4=",
+									"_parent": {
+										"$ref": "AAAAAAF8zGR+u9UyUS4="
+									},
+									"name": "CommunicationDiagram1",
+									"ownedViews": [
+										{
+											"_type": "UMLFrameView",
+											"_id": "AAAAAAF8zGR+vdU0KGk=",
+											"_parent": {
+												"$ref": "AAAAAAF8zGR+vNUzhf4="
+											},
+											"model": {
+												"$ref": "AAAAAAF8zGR+vNUzhf4="
+											},
+											"subViews": [
+												{
+													"_type": "LabelView",
+													"_id": "AAAAAAF8zGR+vdU1Yow=",
+													"_parent": {
+														"$ref": "AAAAAAF8zGR+vdU0KGk="
+													},
+													"font": "Arial;13;0",
+													"left": 32.72998046875,
+													"top": 13,
+													"width": 147.6689453125,
+													"height": 13,
+													"text": "CommunicationDiagram1"
+												},
+												{
+													"_type": "LabelView",
+													"_id": "AAAAAAF8zGR+vtU2k2M=",
+													"_parent": {
+														"$ref": "AAAAAAF8zGR+vdU0KGk="
+													},
+													"font": "Arial;13;1",
+													"left": 13,
+													"top": 13,
+													"width": 14.72998046875,
+													"height": 13,
+													"text": "sd"
+												}
+											],
+											"font": "Arial;13;0",
+											"left": 8,
+											"top": 8,
+											"width": 692,
+											"height": 592,
+											"nameLabel": {
+												"$ref": "AAAAAAF8zGR+vdU1Yow="
+											},
+											"frameTypeLabel": {
+												"$ref": "AAAAAAF8zGR+vtU2k2M="
+											}
+										}
+									]
+								}
+							]
+						}
+					]
+				}
+			]
+		}
+	]
+}
