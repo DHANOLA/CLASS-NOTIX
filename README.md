@@ -52,6 +52,32 @@
         <li><a href="https://github.com/DHANOLA/CLASS-NOTIX/tree/root/SEMESTER%204/OBJECT-ORIENTED%20PROGRAMMING%20LAB" style="color: ">OBJECT-ORIENTED PROGRAMMING LAB</a></li>
 </ul>
     </li>
+      <li>
+      <a href="https://github.com/DHANOLA/CLASS-NOTIX/tree/root/SEMESTER%205" style="color: ">SEMESTER 5</a>
+      <ul>
+        <li><a href="https://github.com/DHANOLA/CLASS-NOTIX/tree/root/SEMESTER%205/APPLICATION%20OF%20MACHINE%20LEARNING%20IN%20INDUSTRIES%20LAB" style="color: ">APPLICATION OF MACHINE LEARNING IN INDUSTRIES LAB</a></li>
+        <li><a href="https://github.com/DHANOLA/CLASS-NOTIX/tree/root/SEMESTER%205/PATTERN%20AND%20ANOMALY%20DETECTION%20LAB" style="color: ">PATTERN AND ANOMALY DETECTION LAB</a></li>
+        <li><a href="https://github.com/DHANOLA/CLASS-NOTIX/tree/root/SEMESTER%205/OBJECT-ORIENTED%20ANALYSIS%20AND%20DESIGN%20LAB" style="color: ">OBJECT-ORIENTED ANALYSIS AND DESIGN LAB</a></li>
+        <li><a href="https://github.com/DHANOLA/CLASS-NOTIX/tree/root/SEMESTER%205/COMPUTER%20GRAPHICS%20LAB" style="color: ">COMPUTER GRAPHICS LAB</a></li>
+        
+</ul>
+    </li>
+      <li>
+      <a href="https://github.com/DHANOLA/CLASS-NOTIX/tree/root/SEMESTER%206" style="color: ">SEMESTER 6</a>
+      <ul>
+        <li><a href="https://github.com/DHANOLA/CLASS-NOTIX/tree/root/SEMESTER%206/NEURAL%20NETWORKS%20LAB" style="color: ">NEURAL NETWORKS LAB</a></li>
+        <li><a href="https://github.com/DHANOLA/CLASS-NOTIX/tree/root/SEMESTER%206/COGNITIVE%20ANALYTICS%20LAB" style="color: ">COGNITIVE ANALYTICS LAB</a></li>
+        <li><a href="https://github.com/DHANOLA/CLASS-NOTIX/tree/root/SEMESTER%206/COMPUTATIONAL%20LINGUISTICS%20%26%20NLP%20LAB" style="color: ">COMPUTATIONAL LINGUISTICS & NLP LAB</a></li>
+        
+</ul>
+    </li>
+      <li>
+      <a href="https://github.com/DHANOLA/CLASS-NOTIX/tree/root/SEMESTER%207" style="color: ">SEMESTER 7</a>
+      <ul>
+        <li><a href="https://github.com/DHANOLA/CLASS-NOTIX/tree/root/SEMESTER%207/CRYPTOGRAPHY%20%26%20NETWORK%20SECURITY%20LAB" style="color: ">CRYPTOGRAPHY AND NETWORK SECURITY LAB</a></li>
+        
+</ul>
+    </li>
     
     
   </ol>
