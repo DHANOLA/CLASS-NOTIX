@@ -1,1 +1,41 @@
+<h1 align="center">
+DATA MINING AND PREDICTION BY MACHINES LAB 📖</h1>
+<!-- PROJECT LOGO -->
+<br />
+<p align="center">
+  <a href="https://github.com/DHANOLA/CLASS-NOTIX/tree/root/SEMESTER%203/DATA%20MINING%20AND%20PREDICTION%20BY%20MACHINES%20LAB">
+    <img src="https://media4.giphy.com/media/l46Cy1rHbQ92uuLXa/giphy.gif?cid=ecf05e47f48bsg1t5nnikfx397k43cs7pp78yfq6p145nr8f&rid=giphy.gif&ct=g" >
+  </a>
+
+  
+
+  <p align="center">
+  <b>DATA MINING IS THE PROCESS OF EXTRACTING AND DISCOVERING PATTERNS IN LARGE DATA SETS INVOLVING METHODS AT THE INTERSECTION OF MACHINE LEARNING, STATISTICS, AND DATABASE SYSTEMS.</b>
+    <br />
+   
+  </p>
+</p>
+
+
+<!-- TABLE OF CONTENTS -->
+<details open="open">
+  <summary><h2 style="display: inline-block">🍏 WE WILL BE HEADING 🦜 OVER :</h2></summary>
+  <ol>
+      <li>  <a href="https://github.com/DHANOLA/CLASS-NOTIX/blob/root/SEMESTER%203/ADVANCED%20DATABASE%20MANAGEMENT%20SYSTEMS%20LAB/EXPERIMENT%201/EXPERIMENT%201.pdf" style="color: ">EXPERIMENT 1: DDL & DML COMMANDS.</a></li>
+                <li><a href="https://github.com/DHANOLA/CLASS-NOTIX/tree/root/SEMESTER%203/ADVANCED%20DATABASE%20MANAGEMENT%20SYSTEMS%20LAB/EXPERIMENT%202/EXPERIMENT%202.pdf" style="color: ">EXPERIMENT 2: DATA AND INTEGRITY CONSTRAINTS.</a></li>
+              <li><a href="https://github.com/DHANOLA/CLASS-NOTIX/tree/root/SEMESTER%203/ADVANCED%20DATABASE%20MANAGEMENT%20SYSTEMS%20LAB/EXPERIMENT%203/EXPERIMENT%203.pdf" style="color: ">EXPERIMENT 3:DSQL SUBQUERY .</a></li>
+              <li><a href="https://github.com/DHANOLA/CLASS-NOTIX/tree/root/SEMESTER%203/ADVANCED%20DATABASE%20MANAGEMENT%20SYSTEMS%20LAB/EXPERIMENT%204/EXPERIMENT%204.pdf" style="color: ">EXPERIMENT 4: INBUILT FUNCTIONS AND RELATIONAL ALGEBRA .</a></li>
+              <li><a href="https://github.com/DHANOLA/CLASS-NOTIX/tree/root/SEMESTER%203/ADVANCED%20DATABASE%20MANAGEMENT%20SYSTEMS%20LAB/EXPERIMENT%205/EXPERIMENT%205.pdf" style="color: ">EXPERIMENT 5: SQL CLAUSES AND JOIN </a></li>
+             <li><a href="https://github.com/DHANOLA/CLASS-NOTIX/tree/root/SEMESTER%203/ADVANCED%20DATABASE%20MANAGEMENT%20SYSTEMS%20LAB/EXPERIMENT%206/EXPERIMENT%206.pdf" style="color: ">EXPERIMENT 6: VIEWS.</a></li>
+              <li><a href="https://github.com/DHANOLA/CLASS-NOTIX/tree/root/SEMESTER%203/ADVANCED%20DATABASE%20MANAGEMENT%20SYSTEMS%20LAB/EXPERIMENT%207/EXPERIMENT%207.pdf" style="color: ">EXPERIMENT 7: INDEX.</a></li>
+            <li><a href="https://github.com/DHANOLA/CLASS-NOTIX/tree/root/SEMESTER%203/ADVANCED%20DATABASE%20MANAGEMENT%20SYSTEMS%20LAB/EXPERIMENT%208/EXPERIMENT%208.pdf" style="color: ">EXPERIMENT 8: SEQUENCE</a></li>
+            <li><a href="https://github.com/DHANOLA/CLASS-NOTIX/tree/root/SEMESTER%203/ADVANCED%20DATABASE%20MANAGEMENT%20SYSTEMS%20LAB/EXPERIMENT%209/EXPERIMENT%209.pdf" style="color: ">EXPERIMENT 9: PL/SQL PROGRAMMING BUILDING BLOCK</a></li>
+            <li><a href="https://github.com/DHANOLA/CLASS-FUNCTION & PROCEDURE IN PL/SQLNOTIX/tree/root/SEMESTER%203/ADVANCED%20DATABASE%20MANAGEMENT%20SYSTEMS%20LAB/EXPERIMENT%2010/EXPERIMENT%2010.pdf" style="color: ">EXPERIMENT 10: HASH TABLES </a></li>
+           
+          
+        
+  </ol>
+</details>
+
+
 
