@@ -110,5 +110,5 @@ RAHUL DHANOLA - [@_DHANOLA](https://twitter.com/_DHANOLA)
 E-M@IL - rahuldhanola31@gmail.com
 
 
-WAY TO MY N🎯TES : [https://github.com/DHANOLA/CLASS-NOTIX](github.com/DHANOLA/CLASS-NOTIX)
+WAY TO MY N🎯TES : [github.com/DHANOLA/CLASS-NOTIX](https://github.com/DHANOLA/CLASS-NOTIX)
 
