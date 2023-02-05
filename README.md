@@ -78,6 +78,13 @@
         
 </ul>
     </li>
+     <li>
+      <a href="https://github.com/DHANOLA/CLASS-NOTIX/tree/root/SEMESTER%208" style="color: ">SEMESTER 8</a>
+      <ul>
+        <li><a href="https://github.com/DHANOLA/CLASS-NOTIX/tree/root/SEMESTER%208" style="color: ">NO LABS WERE IN THIS SEMESTER 😉</a></li>
+        
+</ul>
+    </li>
     
     
   </ol>
